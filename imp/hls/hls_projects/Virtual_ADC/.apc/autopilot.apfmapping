@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="buffer_adc.cpp" path="/home/rrodrigu/x-heep-femu/imp/hls/virtual_adc/buffer_adc.cpp"/>
+    <originFiles name="buffer_adc.h" path="/home/rrodrigu/x-heep-femu/imp/hls/virtual_adc/buffer_adc.h"/>
+  </source>
+  <testbench>
+    <originFiles name="main.cpp" path="/home/rrodrigu/x-heep-femu/imp/hls/virtual_adc/main.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

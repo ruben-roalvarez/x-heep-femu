@@ -1,0 +1,18 @@
+{
+    "0": {
+        "name": "Buffer_ADC",
+        "file": "buffer_adc.cpp",
+        "fileloc": "4",
+        "instructions": "100",
+        "total_instructions": "100",
+        "calls": "",
+        "basicblocks": "5",
+        "loads": {
+            "G": "3"
+        },
+        "stores": {
+            "G": "3",
+            "T": "2"
+        }
+    }
+}

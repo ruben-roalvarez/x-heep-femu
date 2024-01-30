@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [RTGEN 206-101] Register 'DDR_cons_addr_reg' is power-on initialization." projectName="Virtual_ADC" solutionName="baseline" date="2023-12-07T14:54:05.375+0100" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'ADC_buffer_cons_addr_reg' is power-on initialization." projectName="Virtual_ADC" solutionName="baseline" date="2023-12-07T14:54:05.373+0100" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'ADC_buffer_prod_addr_reg' is power-on initialization." projectName="Virtual_ADC" solutionName="baseline" date="2023-12-07T14:54:05.368+0100" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

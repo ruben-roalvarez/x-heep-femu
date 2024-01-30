@@ -1,0 +1,44 @@
+[
+  {
+    "functionLabel": "",
+    "functionName": "Buffer_ADC",
+    "id": 0,
+    "ifcond": "",
+    "insert_position": "",
+    "label": "",
+    "pragma": {
+      "name": "TOP",
+      "option": [
+        {
+          "name": "name",
+          "value": "Buffer_ADC"
+        }
+      ]
+    },
+    "slx": false,
+    "sourceFile": "/home/rrodrigu/x-heep-femu/imp/hls/hls_projects/Virtual_ADC/baseline/directives.tcl",
+    "sourceLine": 7,
+    "success": true
+  },
+  {
+    "functionLabel": "",
+    "functionName": "Buffer_ADC",
+    "id": 1,
+    "ifcond": "",
+    "insert_position": "",
+    "label": "",
+    "pragma": {
+      "name": "TOP",
+      "option": [
+        {
+          "name": "name",
+          "value": "Buffer_ADC"
+        }
+      ]
+    },
+    "slx": false,
+    "sourceFile": "/home/rrodrigu/x-heep-femu/imp/hls/hls_projects/Virtual_ADC/baseline/csynth.tcl",
+    "sourceLine": 17,
+    "success": true
+  }
+]

@@ -1,0 +1,3 @@
+Buffer_ADC_gmem_m_axi
+Buffer_ADC_control_s_axi
+Buffer_ADC

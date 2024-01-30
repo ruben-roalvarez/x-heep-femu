@@ -1,0 +1,10 @@
+--- !Failure
+Pass:            generate-ir-wrapper
+Name:            MAXIDepthUnspecified
+DebugLoc:        { File: ../virtual_adc/buffer_adc.cpp, Line: 15, Column: 0 }
+Function:        _Z10Buffer_ADC7ap_uintILi32EERS0_S0_S0_PS_ILi64EEPS0_S_ILi1EES_ILi10EERS6_RS5_
+Args:            
+  - String:          'A depth specification is required for MAXI interface port '''
+  - Name:            DDR_Master
+  - String:          ''' for cosimulation.'
+...
